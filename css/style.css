@@ -1,0 +1,19 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+	display: inline-block;
+}
+
+.nav-link {
+	display: inline-block;
+}
+
+.menu li {
+	margin: 0px 100px;
+}
